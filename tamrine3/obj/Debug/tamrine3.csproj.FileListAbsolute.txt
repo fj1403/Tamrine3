@@ -1,0 +1,7 @@
+C:\Users\3tare\source\repos\tamrine3\tamrine3\bin\Debug\tamrine3.exe.config
+C:\Users\3tare\source\repos\tamrine3\tamrine3\bin\Debug\tamrine3.exe
+C:\Users\3tare\source\repos\tamrine3\tamrine3\bin\Debug\tamrine3.pdb
+C:\Users\3tare\source\repos\tamrine3\tamrine3\obj\Debug\tamrine3.csprojResolveAssemblyReference.cache
+C:\Users\3tare\source\repos\tamrine3\tamrine3\obj\Debug\tamrine3.csproj.CoreCompileInputs.cache
+C:\Users\3tare\source\repos\tamrine3\tamrine3\obj\Debug\tamrine3.exe
+C:\Users\3tare\source\repos\tamrine3\tamrine3\obj\Debug\tamrine3.pdb
