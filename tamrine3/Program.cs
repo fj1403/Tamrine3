@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace tamrine3
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
@@ -31,17 +31,21 @@ namespace tamrine3
                 }
                 input = 0;
             }
-
-            input = 0;
-            while (input != -1)
+            
+            while (true)
             {
                 Console.WriteLine("Ehtemale entekhabe kodam adad ra mikhahid:");
                 Int32.TryParse(Console.ReadLine(), out input);
+                if (input == -1)
+                {
+                    break;
+                }
+
                 probability = calculateProbability(intArr, input);
 
                 Console.WriteLine("Ehtemale entekhabe adade " + input + ", " + probability + " ast.");
             }
-
+            Console.WriteLine("end");
         }
         public static double calculateProbability(int[] arr, int number)
         {

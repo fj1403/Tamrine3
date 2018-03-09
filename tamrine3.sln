@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrine3", "tamrine3\tamrine3.csproj", "{0F63C9A7-AED3-4AD3-9794-F332D029E76A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tamrine3Tests", "tamrine3Tests\tamrine3Tests.csproj", "{0AF2A90F-630A-463F-B94E-990D860EC966}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F63C9A7-AED3-4AD3-9794-F332D029E76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F63C9A7-AED3-4AD3-9794-F332D029E76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F63C9A7-AED3-4AD3-9794-F332D029E76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF2A90F-630A-463F-B94E-990D860EC966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF2A90F-630A-463F-B94E-990D860EC966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF2A90F-630A-463F-B94E-990D860EC966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF2A90F-630A-463F-B94E-990D860EC966}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
